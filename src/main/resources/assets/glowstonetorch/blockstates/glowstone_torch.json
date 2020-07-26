@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "up=true": {
+      "model": "glowstonetorch:block/glowstone_torch",
+      "x": 180
+    },
+    "up=false": {
+      "model": "glowstonetorch:block/glowstone_torch"
+    }
+  }
+}
